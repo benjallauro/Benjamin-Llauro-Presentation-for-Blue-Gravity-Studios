@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3253737da52b3a045b6ddbb407391a35, type: 3}
+  m_Name: ShopClothesManager
+  m_EditorClassIdentifier: 
+  shirts:
+  - {fileID: 21300000, guid: 3823c43006b68e542a25c78ad4708a49, type: 3}
+  - {fileID: 21300000, guid: d0d9d44731d11b94db3e0439a35293ee, type: 3}
+  - {fileID: 21300000, guid: 7fc46af6a6cf685448fddc3cbb5c0773, type: 3}
+  - {fileID: 21300000, guid: 1696b433468b6a64f8e4b99166ebff08, type: 3}
+  - {fileID: 21300000, guid: 511f0dfb82d687f4fa10c2eb38802d80, type: 3}
+  - {fileID: 21300000, guid: 307b73c1af6e80e45882963839dbeb9a, type: 3}
+  - {fileID: 21300000, guid: d1ea6926ddf70dc4280084a224032d12, type: 3}
+  - {fileID: 21300000, guid: 817d10dfd048fbf458b5a229dc4576fa, type: 3}
+  - {fileID: 21300000, guid: 8890c9522feb46745bc2e83755171137, type: 3}
+  - {fileID: 21300000, guid: d68d987ad578f5c438ce5f3f3141a898, type: 3}
+  - {fileID: 21300000, guid: faafbb83b2e23144a83dddef62021b4d, type: 3}
+  - {fileID: 21300000, guid: 0b7f85cd89b79fc4fa1891b375e356f2, type: 3}
+  - {fileID: 21300000, guid: 8890c9522feb46745bc2e83755171137, type: 3}
+  - {fileID: 21300000, guid: bd9ab6721ac5618418e64d7c7cda39d6, type: 3}
+  - {fileID: 21300000, guid: 755086f1630154b47873af7dabf3180c, type: 3}
+  shirtPrices: 0a0000000e0000000a00000010000000050000000c0000000a0000000f0000000c000000060000000d0000000c0000000f0000000a00000005000000
+  pants:
+  - {fileID: 21300000, guid: e9c075f5b5012c742b65f29dd4b45e28, type: 3}
+  - {fileID: 21300000, guid: 1a61c8b174344f04382478174e8c8bc7, type: 3}
+  - {fileID: 21300000, guid: cfc06511da0c1e7448f9a049b6d02d47, type: 3}
+  - {fileID: 21300000, guid: 418a699125645ed499eed278650fb19b, type: 3}
+  - {fileID: 21300000, guid: 9cd942f9c2f157648bf98bdfbac598c2, type: 3}
+  - {fileID: 21300000, guid: 66342a0d957dd1d4790ef763b86066ef, type: 3}
+  - {fileID: 21300000, guid: 66342a0d957dd1d4790ef763b86066ef, type: 3}
+  - {fileID: 21300000, guid: fbe5d3fab90c3bc479343fca03454edf, type: 3}
+  - {fileID: 21300000, guid: cefb1d06ea2247445a8d4345bdff2b77, type: 3}
+  - {fileID: 21300000, guid: 335eeed06fb3d9c4dbd26c401a0e808c, type: 3}
+  - {fileID: 21300000, guid: 2b8a4d9a35a5c794396263f08b10e3fd, type: 3}
+  - {fileID: 21300000, guid: 5f66bb4f6fe534d4f8116fbc31c7c873, type: 3}
+  - {fileID: 21300000, guid: 6778926e1c4390f4aa32b1f3a92da418, type: 3}
+  pantsPrices: 100000000f0000000c0000000a0000000f000000050000000d000000040000000f000000100000000a0000000b0000000c000000
+  shoes:
+  - {fileID: 21300000, guid: f099d66168601a344a7f8a5c01974822, type: 3}
+  - {fileID: 21300000, guid: 2cb6489a29e2a6a408bf31c3ca5fd6d0, type: 3}
+  - {fileID: 21300000, guid: 1757e57e4360fc9489c054a520f69620, type: 3}
+  - {fileID: 21300000, guid: ed50bfab94f68fc4885a39f863e394ae, type: 3}
+  - {fileID: 21300000, guid: 4bcc9c103d174c04da92f865608c962d, type: 3}
+  - {fileID: 21300000, guid: b2d1595fad7ef2f47aaadfa07d7c76dc, type: 3}
+  - {fileID: 21300000, guid: a41af6b753b482b4da09e926be6b9ef8, type: 3}
+  - {fileID: 21300000, guid: 1d566b2aacfd3ae44a8d9e3ade6bcd2f, type: 3}
+  - {fileID: 21300000, guid: 866d587635d465c419d6a43468a101ad, type: 3}
+  - {fileID: 21300000, guid: c57a53813edcebc4a9f25d94b8f24fa4, type: 3}
+  - {fileID: 21300000, guid: a51697e0846712a48854cc28f911642d, type: 3}
+  - {fileID: 21300000, guid: 634af2e6c1db72c4984cda0960a534cf, type: 3}
+  shoesPrices: 0c0000000a0000000f000000100000000f0000000b00000005000000040000000a0000000f000000060000000a000000
